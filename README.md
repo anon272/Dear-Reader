@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Dear Reader
 
-Hello Testing! You can use the [editor on GitHub](https://github.com/anon272/SB/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anon272/SB/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	  Hi, my name is Blue, and I'm on the Cornell University Swim and Dive team. For the past 6 years, I've been keeping a secret that's been running my life. Imagine having to check around every corner before doing anything. From online to in person interactions, this secret has been dictating how I respond to everything and I'm sick and tired of it. Pretending to be someone I'm not, scared that I'll be outed every day of my life. It's not the kind of life I want to live anymore. To the select few that know, thank you for being so supportive and accepting and I applaud your bravery as well. I guess what's been holding me back is fear. Fear that everything will change once it's out. Fear that people will look at me and treat me differently. Fear that I won't be me anymore. But most of all, I fear that this secret has been holding me hostage for so long, that I don't even know who I really am. I don't blame anyone around me or so called 'social norms'
+	because I honestly think that's bullshit to blame your own problems on someone else.  But I don't blame myself either.
+  
+	  It's taken me this long to really become comfortable with myself and I know that's just something that takes time. While some people are able to just embrace themselves the way they are, it was hard for me not only to realize this, but to accept it. If you find out, I hope that this doesn't change the way you see me in any way. But I guess the fact that I'm hiding this letter just tells me that I'm still not fully ready for my secret to be out there. While deep down I know that my family would accept me and love me for who I am and I doubt would change their view of me... at least I would hope, it's just not something I feel ready for just yet. And while I know this is hidden, to anyone that finds this, this is who I am, but it also doesn't define me.
+  
+	  Ever since I've started to actually embrace my secret, I've become happier and more positive about myself and it's a feeling like no other to be happy with who you are and not have to cover your tracks and actually be able to talk about it with other people. And my message to others in similar situations would be: Take your time and just try embracing it for a little even if it's not around other people. The first person that has to accept and embrace it is you and if you can't do that, you'll never be truly happy with yourself.
