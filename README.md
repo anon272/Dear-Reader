@@ -1,4 +1,5 @@
-Dear Reader
+##Dear Reader
+
 	For the past 6 years, I've been keeping a secret that's been running my life. Imagine having
 	to check around every corner before doing anything. From online to in person interactions, this secret has been
 	dictating how I respond to everything and I'm sick and tired of it. Pretending to be someone I'm not, scared that
