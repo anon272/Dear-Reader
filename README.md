@@ -1,6 +1,6 @@
 ## Dear Reader
 
-...For the past 6 years, I've been keeping a secret that's been running my life. Imagine having
+For the past 6 years, I've been keeping a secret that's been running my life. Imagine having
 to check around every corner before doing anything. From online to in person interactions, this secret has been
 dictating how I respond to everything and I'm sick and tired of it. Pretending to be someone I'm not, scared that
 I'll be outed every day of my life. It's not the kind of life I want to live anymore. To the select few that know,
@@ -11,7 +11,7 @@ for so long, that I don't even know who I really am. I don't blame anyone around
 because I honestly think that's bullshit to blame your own problems on someone else.  But I don't blame myself
 either.
 	
-...It's taken me this long to really become comfortable with myself and I know that's just something that takes
+It's taken me this long to really become comfortable with myself and I know that's just something that takes
 time. While some people are able to just embrace themselves the way they are, it was hard for me not only to realize
 this, but to accept it. If you find out, I hope that this doesn't change the way you see me in any way. But I guess
 the fact that I'm hiding this letter just tells me that I'm still not fully ready for my secret to be out there.
@@ -19,7 +19,7 @@ While deep down I know that my family would accept me and love me for who I am a
 me... at least I would hope, it's just not something I feel ready for just yet. And while I know this is hidden, to
 anyone that finds this, this is who I am, but it also doesn't define me.
 
-...Ever since I've started to actually embrace my secret, I've become happier and more positive about myself and
+Ever since I've started to actually embrace my secret, I've become happier and more positive about myself and
 it's a feeling like no other to be happy with who you are and not have to cover your tracks and actually be able to
 talk about it with other people. And my message to others in similar situations would be: Take your time and just try
 embracing it for a little even if it's not around other people. The first person that has to accept and embrace it
